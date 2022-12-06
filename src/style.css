@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.login-input {
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.password-input {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+
+.main-content {
+    text-align: center;
+}
